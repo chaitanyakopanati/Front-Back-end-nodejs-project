@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+img.rounded-start.w-100 {
+  margin-top: 0%;
+  height: 100%;
+}
+div#root {
+  background-color: blanchedalmond;
+}
+html {
+  background-color: blanchedalmond;
+}
+.container.p-3.my-5.d-flex.flex-column.w-50 {
+  background-color: rgb(246, 106, 6);
+}
+.col-md-6 {
+  background-color: rgb(234, 234, 203);
+}
+.navba {
+  background-color: blanchedalmond;
+}
